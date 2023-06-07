@@ -11,6 +11,5 @@ Introduction to HTML and CSS
 ## Project layout
 
 ![Project layout](https://user-images.githubusercontent.com/120471137/244013926-d11abe14-028c-483e-b7cd-767e877e8685.png)
-)
 
 The project in Figma is at this [link](https://www.figma.com/file/aoJI2mcN0J92jpIrlegvdg/Explorer---Projeto-01-(Copy)?type=design&t=71U9HTUc0iwtjzxS-1).
