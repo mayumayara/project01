@@ -6,7 +6,7 @@ From [the Explore programming scholl](https://www.rocketseat.com.br/explorer) by
 
 ## About the project
 
-Introduction to HTML and CSS 
+Introduction to HTML and CSS.
 
 ## Project layout
 
